@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        // добавил комментарий
         Car bmw = new Car();
         bmw.doMove();
         bmw.name = "BMW";
